@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "274557361932",
+    "firebase_url": "https://ftracking-fb262.firebaseio.com",
+    "project_id": "ftracking-fb262",
+    "storage_bucket": "ftracking-fb262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274557361932:android:93dca2c215c9898017b329",
+        "android_client_info": {
+          "package_name": "com.example.ftracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274557361932-o4tb3raf83nt962shmo5kokvjdku7k9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ftracking",
+            "certificate_hash": "fc2142df52d3ba48d853c8bd569607fa176d45e2"
+          }
+        },
+        {
+          "client_id": "274557361932-1allsk7r715eni0oovg4u76dck2atphd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95qQ1BzwmOVPBi1FJ8EuYkH2LneAmsQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274557361932-1allsk7r715eni0oovg4u76dck2atphd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
